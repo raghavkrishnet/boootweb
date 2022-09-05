@@ -1,3 +1,3 @@
 # bootweb.github.io
-<a href="https://raghavkrishnet.github.io/bootweb/">https://raghavkrishnet.github.io/bootweb/</a>
+<a href="https://raghavkrishnet.github.io/boootweb/">https://raghavkrishnet.github.io/boootweb//</a>
 Website created using bootstrap
